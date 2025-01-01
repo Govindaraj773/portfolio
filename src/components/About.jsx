@@ -13,7 +13,7 @@ const About = () => {
           <p> Name : {Settings.name}</p>
           <p> Age : {Settings.Age}</p>
           <p> Birthday : {Settings.Birthday}</p>
-          <p> Country : {Settings.Country}</p>
+          <p> Place : {Settings.Place}</p>
           <p> Degree : {Settings.Degree}</p>
           <p>
             Email : <a href={`mailto:${Settings.Email}`}>{Settings.Email}</a>

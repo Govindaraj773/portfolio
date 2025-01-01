@@ -17,11 +17,11 @@
 
 .profile img {
   margin-top: 10px;
-  border-radius: 50%;
+  border-radius: 5%;
   background-color: var(--head_color);
   transition: var(--transition);
   width: 256px;
-  width: 256px;
+  height: 300px;
 }
 
 .profile img:hover {
