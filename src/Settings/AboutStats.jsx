@@ -10,7 +10,7 @@ export default [
   },
   {
     title: `Projects`,
-    description: `9 Completed`,
+    description: `15+ Completed`,
     icon: <AiFillProject />,
   },
   {

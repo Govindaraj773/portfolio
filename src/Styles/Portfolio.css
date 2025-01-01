@@ -29,7 +29,8 @@
 }
 
 .project h3 {
-  font-size: 15px;
+  font-size: 20px;
+  color: white;
   padding-bottom: 10px;
 }
 
@@ -47,7 +48,8 @@
 }
 
 .project a:hover {
-  background-color: var(--head_color);
+  /* background-color: var(--head_color); */
+  background-color: yellow;
   color: var(--bg_color);
 }
 

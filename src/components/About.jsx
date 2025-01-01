@@ -12,9 +12,10 @@ const About = () => {
         <div className="info">
           <p> Name : {Settings.name}</p>
           <p> Age : {Settings.Age}</p>
-          <p> Birthday : {Settings.Birthday}</p>
+          <p> DOB : {Settings.Birthday}</p>
           <p> Place : {Settings.Place}</p>
           <p> Degree : {Settings.Degree}</p>
+          <p> Mobile : {Settings.Phone}</p>
           <p>
             Email : <a href={`mailto:${Settings.Email}`}>{Settings.Email}</a>
           </p>

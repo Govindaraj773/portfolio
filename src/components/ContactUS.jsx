@@ -34,13 +34,13 @@ const ContactUS = () => {
           onChange={(e) => setEmail(e.target.value)}
         />
 
-        {/* <label>Subject</label>
+        <label>Subject</label>
         <input
           type="text"
           placeholder="Form Subject.."
           value={subject}
           onChange={(e) => setSubject(e.target.value)}
-        /> */}
+        />
 
         <label>Message</label>
         <textarea

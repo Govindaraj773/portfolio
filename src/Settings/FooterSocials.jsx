@@ -1,5 +1,5 @@
 import {  AiFillInstagram, AiFillLinkedin } from "react-icons/ai";
-import { SiReplit } from "react-icons/si";
+import { SiReplit, SiNetlify } from "react-icons/si";
 import { FaGithub, FaTwitterSquare } from "react-icons/fa";
 
 export default [
@@ -22,5 +22,9 @@ export default [
   {
     link: "https://replit.com/@GovindarajChola",
     icon: <SiReplit />,
+  },
+  {
+    link: "https://app.netlify.com/teams/govindaraj773/sites",
+    icon: <SiNetlify />,
   },
 ];

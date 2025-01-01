@@ -8,5 +8,6 @@ export default {
   Place: "Bengaluru, Karnataka, India",
   Birthday: `20 April 1996`,
   Degree: `B.E`,
+  Phone: `+91 9535995547`,
   Email: `govindaraj5547@gmail.com`,
 };

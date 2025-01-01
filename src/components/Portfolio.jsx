@@ -9,10 +9,13 @@ const Portfolio = () => {
       <div className="projects">
         {Projects.map((data, index) => (
           <div className="project" key={index}>
-            <img src={data.image} alt={data.name} />
+            {/* <img src={data.image} alt={data.name} /> */}
             <h3> {data.name} </h3>
             <a href={data.link} target={"_blank"}>
-              Link
+              Github Link
+            </a>
+            <a href={data.project_link} target={"_blank"}>
+              Netlify Link
             </a>
           </div>
         ))}

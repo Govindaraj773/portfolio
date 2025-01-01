@@ -15,11 +15,13 @@
   justify-content: center;
   align-items: center;
   flex-direction: column;
-  border: 2px solid var(--head_color);
+  /* border: 2px solid var(--head_color); */
+  border: 2px solid orange;
   border-radius: 30px;
   width: 200px;
   height: 200px;
-  transition: var(--transition);
+  /* transition: var(--transition); */
+  transition: orange;
 }
 
 .skill:hover {
