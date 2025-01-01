@@ -15,11 +15,11 @@ const Footer = ({ page, setPage }) => {
       <div className="middle">
         <h2>Full Stack Developer</h2>
       </div>
-      <div className="right">
-        {["About US", "Contact US"].map((item, index) => (
+      {/* <div className="right">
+        {["About Me", "Contact Me"].map((item, index) => (
           <p key={index} onClick={() => setPage(item)} > {item} </p>
         ))}
-      </div>
+      </div> */}
     </div>
   );
 };

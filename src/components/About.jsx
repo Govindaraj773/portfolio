@@ -19,6 +19,7 @@ const About = () => {
           <p>
             Email : <a href={`mailto:${Settings.Email}`}>{Settings.Email}</a>
           </p>
+          <p> Hobbies : {Settings.Hobbies}</p>
         </div>
       </div>
       

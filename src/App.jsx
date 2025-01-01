@@ -16,11 +16,11 @@ const App = () => {
     <>
       <Navbar page={page} setPage={setPage} />
       {page == "Header" && <Header />}
-      {page == "About US" && <About />}
-      {page == "Portfolio" && <Portfolio />}
+      {page == "About Me" && <About />}
+      {page == "Projects" && <Portfolio />}
       {page == "Skills" && <Skills />}
-      {page == "Services" && <Services />}
-      {page == "Contact US" && <ContactUS />}
+      {page == "Capabilities" && <Services />}
+      {page == "Contact Me" && <ContactUS />}
       <Footer page={page} setPage={setPage} />
     </>
   );

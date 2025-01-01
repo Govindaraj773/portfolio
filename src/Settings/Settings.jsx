@@ -3,11 +3,12 @@ import profile_logo from "../assets/profile.jpg"
 export default {
   name: `Govindaraj Cholappagol`,
   profile_photo: profile_logo,
-  position: `Full Stack Developer`,
+  position: `Full Stack Developer.`,
   Age: 28,
-  Place: "Bengaluru, Karnataka, India",
+  Place: "Bengaluru, Karnataka, India.",
   Birthday: `20 April 1996`,
   Degree: `B.E`,
   Phone: `+91 9535995547`,
   Email: `govindaraj5547@gmail.com`,
+  Hobbies: `Sports & Reading books.`,
 };

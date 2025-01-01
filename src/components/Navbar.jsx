@@ -5,10 +5,10 @@ const Navbar = ({ page, setPage }) => {
   return (
     <div className="navbar">
       <a href="/" className="nav_title hover_line">
-        Govindaraj C
+        PORTFOLIO
       </a>
       <div className="links">
-        {["About US", "Portfolio", "Skills", "Services", "Contact US"].map(
+        {["About Me", "Projects", "Skills", "Capabilities", "Contact Me"].map(
           (title, index) => (
             <li key={index}>
               <p onClick={() => setPage(title)} className="hover_line">{title}</p>
