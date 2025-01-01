@@ -29,7 +29,7 @@ export default [
     name: `Portfolio`,
     image: logo,
     link: `https://github.com/Govindaraj773/portfolio`,
-    project_link: `https://cozy-tartufo-a3bb9e.netlify.app/`,
+    project_link: `https://comfy-tiramisu-32d6e1.netlify.app/`,
   },
   {
     name: `Sii Hotel`,
