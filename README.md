@@ -1,6 +1,6 @@
-# Developer Portfolio Website
+# Govindaraj's Portfolio 
 
-This is a developer portfolio website built using ReactJS.
+This portfolio built by using ReactJS.
 
 ## Table of Contents
 
