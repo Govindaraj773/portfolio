@@ -22,7 +22,7 @@ const About = () => {
           <p> Hobbies : {Settings.Hobbies}</p>
         </div>
       </div>
-      
+
       <div className="stats">
         {AboutStats.map((item, index) => (
           <div className="card" key={index}>

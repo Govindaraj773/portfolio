@@ -15,7 +15,7 @@ export default [
   },
   {
     title: `Languages`,
-    description: `8`,
+    description: `10+ Known`,
     icon: <GrLanguage />,
   },
 ];

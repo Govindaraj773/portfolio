@@ -1,9 +1,14 @@
 import { AiFillHtml5 } from "react-icons/ai";
-import { FaCss3Alt, FaPython, FaNodeJs, FaReact, FaGithub  } from "react-icons/fa";
-import { TbBrandJavascript, TbBrandNextjs  } from "react-icons/tb";
+import {
+  FaCss3Alt,
+  FaPython,
+  FaNodeJs,
+  FaReact,
+  FaGithub,
+} from "react-icons/fa";
+import { TbBrandJavascript, TbBrandNextjs } from "react-icons/tb";
 import { GrMysql } from "react-icons/gr";
-import { SiExpress, SiMongodb  } from "react-icons/si";
-
+import { SiExpress, SiMongodb } from "react-icons/si";
 
 export default [
   {
@@ -28,7 +33,7 @@ export default [
   },
   {
     name: `MongoDB`,
-    icon: <SiMongodb  />,
+    icon: <SiMongodb />,
   },
   {
     name: `My SQL`,
@@ -44,11 +49,10 @@ export default [
   },
   {
     name: `Git Hub`,
-    icon: <FaGithub  />,
+    icon: <FaGithub />,
   },
   // {
   //   name: `Hostinger`,
   //   icon: <SiHostinger />,
   // },
-  
 ];

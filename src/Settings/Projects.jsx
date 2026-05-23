@@ -2,6 +2,12 @@ import logo from "../assets/github.png";
 
 export default [
   {
+    name: `Analytics-Dashboard`,
+    image: logo,
+    link: `https://github.com/Govindaraj773/product-analytics-dashboard.git`,
+    project_link: `https://product-analytics-dashboard-gray.vercel.app/`,
+  },
+  {
     name: `Gol Travels Sri Lanka`,
     image: logo,
     link: `https://github.com/Govindaraj773/global-tour`,

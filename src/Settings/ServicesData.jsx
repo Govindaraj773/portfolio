@@ -1,6 +1,8 @@
 export default [
+  "Full-Stack Development",
   "Frontend Development",
-  "Website Development",
+  "Backend Development",
   "React Development",
-  "backend Development",
+  "Node.js Development",
+  "Website deployment",
 ];

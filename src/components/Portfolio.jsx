@@ -15,7 +15,7 @@ const Portfolio = () => {
               Github Link
             </a>
             <a href={data.project_link} target={"_blank"}>
-              Netlify Link
+              Website Link
             </a>
           </div>
         ))}
