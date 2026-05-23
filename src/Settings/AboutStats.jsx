@@ -5,7 +5,7 @@ import { GrLanguage } from "react-icons/gr";
 export default [
   {
     title: `Experience`,
-    description: `2 Years`,
+    description: `3 Years`,
     icon: <RiAwardFill />,
   },
   {
