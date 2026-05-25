@@ -20,6 +20,16 @@ const About = () => {
             Email : <a href={`mailto:${Settings.Email}`}>{Settings.Email}</a>
           </p>
           <p> Hobbies : {Settings.Hobbies}</p>
+          <p>
+            <a
+              href="Govindaraj_Full_Stack_Developer_3YOE.pdf"
+              target="_blank"
+              rel="noopener noreferrer"
+              className="px-4 py-2 bg-blue-600 text-white rounded"
+            >
+              Download Resume
+            </a>
+          </p>
         </div>
       </div>
 
